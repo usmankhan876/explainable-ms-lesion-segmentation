@@ -8,7 +8,7 @@ torchvision>=0.16
 # MRI processing
 SimpleITK>=2.3        # N4 bias-field correction, volume I/O
 nibabel==5.2.0
-hd-bet                # 3D skull stripping (HD-BET)
+hd-bet==2.0.1         # 3D skull stripping (HD-BET), version used in the notebook
 qnorm                 # joint quantile normalization
 
 # Numerics and image processing
